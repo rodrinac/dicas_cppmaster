@@ -1,0 +1,14 @@
+Qt UI Template 01
+
+This ui is free. Use it on your own risk.
+
+
+### INSTALL ###
+Extract the content anywhere you want.
+Use QtDesigner to customize it.
+
+
+### USE ###
+-Most of the widgets are covered with the template
+-You can customize any css you want
+-All css are written on the Form QWidget

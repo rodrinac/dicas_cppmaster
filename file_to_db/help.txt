@@ -1,0 +1,8 @@
+﻿										====================
+										==== HARD GAMER ====
+									  youtube.com/c/HardGamerJr
+										====================
+
+							Para este tutorial foi usado a biblioteca de acesso
+								   a SQLite SQLiteCpp, disponível em:
+								https://srombauts.github.io/SQLiteCpp/

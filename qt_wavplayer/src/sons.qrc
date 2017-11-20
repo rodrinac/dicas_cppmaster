@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wav/engine-loop.wav</file>
+        <file>wav/Explosion.wav</file>
+        <file>wav/horn.wav</file>
+        <file>wav/kiss.wav</file>
+        <file>wav/phone.wav</file>
+        <file>wav/shooter-action.wav</file>
+    </qresource>
+</RCC>
