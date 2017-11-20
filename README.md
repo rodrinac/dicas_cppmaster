@@ -1,6 +1,6 @@
 **Playlist: Dicas de C++**
 
-[Youtube Link](http://youtube.com/cppmaster).
+[Youtube Link](http://www.youtube.com/playlist?list=PL0meOoSt675dJogQIQzNtaERbKVPuOnVu).
 
 #### PT
 
@@ -15,6 +15,6 @@ This is the oficial repository of **Dicas de C++**  playlist.
 using namespace std;
 
 int main() {
-	cout << "Hello World" << endl;
+    cout << "Hello World" << endl;
 }
 ```
